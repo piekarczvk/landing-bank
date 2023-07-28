@@ -50,3 +50,21 @@ body {
   background: linear-gradient(175deg, rgba(66, 62, 224, 0.40) 0%, rgba(129, 45, 226, 0.40) 100%);
   filter: blur(150px);
 }
+
+.header--glow-circle2{
+  width: 1211px;
+  height: 1100px;
+  border-radius: 900px;
+  background: linear-gradient(175deg, rgba(66, 62, 224, 0.40) 0%, rgba(129, 45, 226, 0.40) 100%);
+  filter: blur(150px);
+}
+
+
+.header--glow-pic{
+  width:370px;
+  height: 560px;
+  border-radius: 900px;
+  background: linear-gradient(175deg, rgba(66, 62, 224, 0.40) 0%, rgba(129, 45, 226, 0.40) 100%);
+  filter: blur(150px);
+}
+
